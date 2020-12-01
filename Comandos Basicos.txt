@@ -1,0 +1,10 @@
+Comandos basicos GitHUb
+Iniciar repositorio - git init
+Branch - versoes diferentes do sistema
+
+---------
+Criar o Readme
+
+git log --- log dos commits
+git add -A
+comitar -- git commit -m "texto"
