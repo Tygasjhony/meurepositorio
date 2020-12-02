@@ -8,3 +8,5 @@ Criar o Readme
 git log --- log dos commits
 git add -A
 comitar -- git commit -m "texto"
+
+-- felipe teste
